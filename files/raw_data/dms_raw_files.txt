@@ -1,0 +1,10 @@
+/mnt/scratch/sync_sd/car_record/demo/20160616-1/dms/
+/mnt/scratch/sync_sd/car_record/demo/20160617-1/dms/
+/mnt/scratch/sync_sd/car_record/demo/20160621-1/dms/
+/mnt/scratch/sync_sd/car_record/demo/20160621-2/dms/
+/mnt/scratch/sync_sd/car_record/demo/20160622-1/dms/
+/mnt/scratch/sync_sd/car_record/demo/20160623-1/dms/
+/mnt/scratch/sync_sd/car_record/demo/20160623-2/dms/
+/mnt/scratch/sync_sd/car_record/demo/20160626-1/dms/
+/mnt/scratch/sync_sd/car_record/demo/20160627-1/dms/
+/mnt/scratch/sync_sd/car_record/demo/20160629-1/dms/
