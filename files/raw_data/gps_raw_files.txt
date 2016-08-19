@@ -1,0 +1,7 @@
+/mnt/scratch/time_alignment/20160727_01/gps/gps_imu_recoder.txt
+/mnt/scratch/time_alignment/20160727_02/gps/gps_imu_recoder.txt
+/mnt/scratch/time_alignment/20160729/gps/gps_imu_recoder.txt
+/mnt/scratch/time_alignment/20160801_01/gps/gps_imu_recoder_v1.txt
+/mnt/scratch/time_alignment/20160801_02/gps/gps_imu_recoder_v2.txt
+/mnt/scratch/time_alignment/20160802_01/gps/gps_imu_recoder_v1.txt
+/mnt/scratch/time_alignment/20160802_02/gps/gps_imu_recoder_v2.txt

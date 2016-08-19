@@ -1,0 +1,7 @@
+/mnt/scratch/time_alignment/20160727_01/can_info/20160727.txt
+/mnt/scratch/time_alignment/20160727_02/can_info/20160727_2.txt
+/mnt/scratch/time_alignment/20160729/can_info/merge.txt
+/mnt/scratch/time_alignment/20160801_01/can_info/20160801.txt
+/mnt/scratch/time_alignment/20160801_02/can_info/20160801_v2.txt
+/mnt/scratch/time_alignment/20160802_01/can_info/20160802.txt
+/mnt/scratch/time_alignment/20160802_02/can_info/20160802_v2.txt

@@ -1,0 +1,7 @@
+/mnt/scratch/time_alignment/20160727_01/binocular_camera/list_left.txt
+/mnt/scratch/time_alignment/20160727_02/binocular_camera/list_left.txt
+/mnt/scratch/time_alignment/20160729/binocular_camera/list_left.txt
+/mnt/scratch/time_alignment/20160801_01/binocular_camera/list_left.txt
+/mnt/scratch/time_alignment/20160801_02/binocular_camera/list_left.txt
+/mnt/scratch/time_alignment/20160802_01/binocular_camera/list_left.txt
+/mnt/scratch/time_alignment/20160802_02/binocular_camera/list_left.txt
